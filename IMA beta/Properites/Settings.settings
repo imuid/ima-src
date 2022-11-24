@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="IMA.Properties" GeneratedClassName="Settings" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Opacity" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="Color" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">128, 128, 255</Value>
+    </Setting>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)">uzytkownik</Value>
+    </Setting>
+    <Setting Name="NazwaProgramu" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Ima Editor</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
